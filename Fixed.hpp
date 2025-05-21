@@ -1,5 +1,5 @@
-#ifndef ZOMBIE_H
-#define  ZOMBIE_H
+#ifndef FIXED_HPP
+#define  FIXED_HPP
 
 class Fixed{
 
